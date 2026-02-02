@@ -77,7 +77,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://daily-lime-aiy97bit28.edgeone.app/Rico%20Blanco%20-%20Your%20Universe%20(LyricsLetra).mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dmrn7zxgo/video/upload/v1770064539/Rico_Blanco_-_Your_Universe_LyricsLetra_eumpzj.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
